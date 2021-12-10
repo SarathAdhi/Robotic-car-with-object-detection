@@ -36,3 +36,5 @@ BOOM now the complete project is done and it is ready to detect and pick the obj
 Future project modification plan:-
 1. The distance is pre-defined, so we can find the distance using ultrasonic sensor. But we are going to implement it using Object disstance method using the camera itself. YOLO distance calculation method.
 2. The camera we are going to use is ESP32 cam which is a wifi cam instead of webcam.
+
+# Sample video is uploaded in the repo.
