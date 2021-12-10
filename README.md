@@ -7,5 +7,5 @@ Here the project is divided into two parts -> the car and the robotic arm.
 2. The robotic arm part is to pick the detected object.
 
 Now the above parts and modules are combined and if the object is detected it will go near near the object and the arm will pick the object.
-There is a sample video demo above.
+There is a sample video demo in the repo.
 
